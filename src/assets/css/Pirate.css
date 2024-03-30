@@ -1,0 +1,21 @@
+section {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px dotted black;
+  margin-bottom: 1rem;
+}
+
+summary ul {
+  padding: 0;
+}
+
+.pirate {
+  max-width: 80vw;
+  margin: 2rem auto;
+}
+
+h2 {
+  font-family: "Trade Winds", cursive;
+}
